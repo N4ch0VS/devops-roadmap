@@ -20,3 +20,23 @@ Este proyecto cuenta con recursos adicionales y ejercicios prácticos para profu
 ## Cómo Contribuir
 
 Siéntete libre de abrir issues o pull requests para mejorar el roadmap.
+
+## Tecnologías del Roadmap
+
+### Nivel Básico
+- Linux fundamentals
+- Bash scripting
+- Git avanzado
+- Redes básicas
+
+### Nivel Intermedio
+- Docker
+- Kubernetes
+- Ansible/Terraform
+- Jenkins/GitLab CI
+
+### Nivel Avanzado
+- AWS/GCP/Azure
+- Prometheus/Grafana
+- Security (DevSecOps)
+- Microservices
