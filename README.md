@@ -45,3 +45,5 @@ Siéntete libre de abrir issues o pull requests para mejorar el roadmap.
 - Prometheus/Grafana
 - Security (DevSecOps)
 - Microservices
+
+## Objetivos de Aprendizaje
