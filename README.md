@@ -47,3 +47,8 @@ Siéntete libre de abrir issues o pull requests para mejorar el roadmap.
 - Microservices
 
 ## Objetivos de Aprendizaje
+
+- Comprender el ciclo de vida DevOps
+- Dominar herramientas de automatización
+- Implementar pipelines CI/CD
+- Gestionar infraestructura en la nube
