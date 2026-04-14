@@ -17,6 +17,11 @@ Este repositorio contiene un roadmap para estudiar DevOps. El objetivo es propor
 
 Este proyecto cuenta con recursos adicionales y ejercicios prácticos para profundizar en cada tema.
 
+### Recursos Recomendados
+- [Linux Journey](https://linuxjourney.com)
+- [Docker Getting Started](https://docs.docker.com/get-started/)
+- [Kubernetes Basics](https://kubernetes.io/docs/tutorials/)
+
 ## Cómo Contribuir
 
 Siéntete libre de abrir issues o pull requests para mejorar el roadmap.
